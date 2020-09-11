@@ -1,0 +1,5 @@
+This is a new file added to the testing
+[ VLAN #1]
+[192.168.0.56 Kubemaster ]
+[192.168.0.57 Kube_ETCD ]
+[192.168.0.59 KubeWorker ]
